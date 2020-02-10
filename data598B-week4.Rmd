@@ -1,0 +1,102 @@
+---
+title: "data598B-week4"
+author: "Mabel Li"
+output: bookdown::html_document2
+bibliography: citations.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  collapse = TRUE,
+  message = FALSE,
+  warning = FALSE,
+  autodep = TRUE,
+  cache.comments = FALSE,
+  cache.extra = list(R.version, sessionInfo(), 
+                     tools::md5sum('cleanedInfo.csv'))
+  )
+knitr::dep_auto()
+knitr::read_chunk("externalCode.R")
+
+```
+
+
+## 1  
+```{r tidyverse}
+library(tidyverse)
+```
+
+
+## 2-1    
+```{r starwars-plot, fig.cap="A ggplot of starwars stuff"}
+starwars %>% 
+  filter(species == "Human") %>%
+ggplot() + 
+  aes(x = height, y = mass) +
+  geom_point()
+```
+
+We can see in Figure \@ref(fig:starwars-plot).  
+
+
+## 2-2  
+```{r starwars-tbl}
+starwars %>% 
+  filter(species == "Human") %>%
+  select(name, height, mass, homeworld) %>%
+  knitr::kable(caption = "A knitr kable table of starwars data")
+```
+
+We can see in Table \@ref(tab:starwars-tbl).  
+
+
+## 3  
+[@he2018amc]
+[@harrison2013animal]
+
+
+## 4  
+```{r fx-viz-scatter-x}
+viz_scatter_x <- function(data, vbl) {
+  ggplot(
+    data = data, 
+    mapping = aes(x = mass, y = {{vbl}}) ) +
+    geom_point()
+}
+
+viz_scatter_x(starwars, height)
+viz_scatter_x(starwars, mass)
+```
+
+
+## 5  
+```{r set-up-the-data, eval = FALSE}
+```
+
+```{r, echo=FALSE}
+<<set-up-the-data>>
+<<print-the-data>>
+```
+
+```{r plot-the-data, echo=FALSE}
+
+```
+
+
+## 6  
+```{r import-data}
+d <- read.csv('cleanedInfo.csv')
+```
+
+```{r}
+results <- log10(d$sat.avg)
+plot(d$tuition)
+plot(results)
+```
+
+
+
+
+## References
+

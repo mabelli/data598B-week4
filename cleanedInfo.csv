@@ -1,0 +1,312 @@
+"","act-avg","sat-avg","enrollment","city","zip","acceptance-rate","rankingDisplayScore","cost-after-aid","state","hs-gpa-avg","xwalkId","rankingIsTied","businessRepScore","tuition","engineeringRepScore","displayName","aliasNames","overallRank","institutionalControl","rankingRankStatus","primaryKey","alRank"
+"1",32,1400,5400,"Princeton","08544",7,100,16793,"NJ",3.9,"186131",FALSE,NA,47140,4.1,"Princeton University",NA,1,"private","ranked","2627",1
+"2",32,1430,6710,"Cambridge","02138",5,98,16338,"MA",4,"166027",FALSE,NA,48949,3.6,"Harvard University",NA,2,"private","ranked","2155",2
+"3",32,1450,5941,"Chicago","60637",8,96,27767,"IL",4,"144050",TRUE,NA,54825,NA,"University of Chicago","UChicago",3,"private","ranked","1774",3
+"4",32,1420,5472,"New Haven","06520",6,96,18385,"CT",NA,"130794",TRUE,NA,51400,3.4,"Yale University",NA,3,"private","ranked","1426",3
+"5",32,1430,6113,"New York","10027",6,95,21041,"NY",NA,"190150",TRUE,NA,57208,3.8,"Columbia University",NA,5,"private","ranked","2707",5
+"6",33,1460,4524,"Cambridge","02139",8,95,20331,"MA",NA,"166683",TRUE,4.6,49892,4.9,"Massachusetts Institute of Technology","MIT",5,"private","ranked","2178",5
+"7",31,1380,7034,"Stanford","94305",5,95,19296,"CA",NA,"243744",TRUE,NA,49617,4.8,"Stanford University",NA,5,"private","ranked","1305",5
+"8",32,1380,10019,"Philadelphia","19104",9,93,25441,"PA",3.9,"215062",FALSE,4.8,53534,3.6,"University of Pennsylvania","UPenn",8,"private","ranked","3378",8
+"9",31,1380,6609,"Durham","27708",11,92,23374,"NC",NA,"198419",FALSE,NA,53744,3.7,"Duke University",NA,9,"private","ranked","2920",9
+"10",34,1510,979,"Pasadena","91125",8,91,23973,"CA",NA,"110404",FALSE,NA,49908,4.6,"California Institute of Technology","CalTech Cal Tech",10,"private","ranked","1131",10
+"11",30,1350,4310,"Hanover","03755",11,90,23312,"NH",NA,"182670",TRUE,NA,52950,3.2,"Dartmouth College",NA,11,"private","ranked","2573",11
+"12",32,1420,6117,"Baltimore","21218",12,90,30067,"MD",3.9,"162928",TRUE,NA,52170,3.9,"Johns Hopkins University","JHU",11,"private","ranked","2077",11
+"13",32,1400,8353,"Evanston","60208",11,90,31087,"IL",NA,"147767",TRUE,NA,52678,4,"Northwestern University",NA,11,"private","ranked","1739",11
+"14",31,1370,6926,"Providence","02912",9,86,24482,"RI",NA,"217156",TRUE,NA,53419,3.3,"Brown University",NA,14,"private","ranked","3401",14
+"15",31,1330,14566,"Ithaca","14853",14,86,28068,"NY",NA,"190415",TRUE,4.2,52853,4.2,"Cornell University",NA,14,"private","ranked","2711",14
+"16",32,1410,3893,"Houston","77251",15,86,23996,"TX",NA,"227757",TRUE,NA,45608,3.7,"Rice University",NA,14,"private","ranked","3604",14
+"17",32,1420,6871,"Nashville","37240",11,86,23323,"TN",3.8,"221999",TRUE,NA,47664,3.4,"Vanderbilt University",NA,14,"private","ranked","3535",14
+"18",32,1350,8530,"Notre Dame","46556",19,85,29653,"IN",NA,"152080",TRUE,4.1,51505,3.3,"University of Notre Dame","Notre Dame",18,"private","ranked","1840",18
+"19",32,1400,7540,"St. Louis","63130",17,85,29245,"MO",NA,"179867",TRUE,4,51533,3.3,"Washington University in St. Louis","WashU Washington University in St Louis Washington University in Saint Louis",18,"private","ranked","2520",18
+"20",30,1320,7453,"Washington","20057",17,80,29667,"DC",NA,"131496",FALSE,3.8,52300,NA,"Georgetown University",NA,20,"private","ranked","1445",20
+"21",30,1290,6861,"Atlanta","30322",25,78,24264,"GA",3.7,"139658",TRUE,3.8,49392,NA,"Emory University",NA,21,"private","ranked","1564",21
+"22",29,1300,29311,"Berkeley","94720",16,78,49614,"CA",3.9,"110635",TRUE,4.5,42112,4.7,"University of California--Berkeley","UC Berkeley Cal Berkeley University of California Berkeley",21,"public","ranked","1312",21
+"23",25,1160,30873,"Los Angeles","90095",18,78,42896,"CA",3.9,"110662",TRUE,NA,41270,3.8,"University of California--Los Angeles","UCLA University of California Los Angeles",21,"public","ranked","1315",21
+"24",30,1280,18794,"Los Angeles","90089",17,78,33112,"CA",3.7,"123961",TRUE,4.1,54259,3.6,"University of Southern California","USC Southern Cal",21,"private","ranked","1328",21
+"25",31,1380,6673,"Pittsburgh","15213",22,76,33550,"PA",3.8,"211440",TRUE,4.2,53910,4.3,"Carnegie Mellon University","CMU",25,"private","ranked","3242",25
+"26",29,1240,16331,"Charlottesville","22904",30,76,28079,"VA",4,"234076",TRUE,4.2,46975,3.4,"University of Virginia","UVA",25,"public","ranked","6968",25
+"27",28,1240,4955,"Winston-Salem","27109",30,75,24241,"NC",NA,"199847",FALSE,3.4,51400,NA,"Wake Forest University",NA,27,"private","ranked","2978",27
+"28",29,1310,28983,"Ann Arbor","48109",29,74,32856,"MI",3.8,"170976",FALSE,4.5,47476,4.4,"University of Michigan--Ann Arbor","UM University of Michigan Ann Arbor",28,"public","ranked","9092",28
+"29",31,1370,5508,"Medford","02155",14,72,27034,"MA",NA,"168148",FALSE,NA,54318,3,"Tufts University",NA,29,"private","ranked","2219",29
+"30",29,1250,26135,"New York","10012",32,71,41783,"NY",3.6,"193900",TRUE,4.3,50464,2.9,"New York University","NYU",30,"private","ranked","2785",30
+"31",27,1190,18523,"Chapel Hill","27599",27,71,17815,"NC",4,"199120",TRUE,4.2,34588,NA,"University of North Carolina--Chapel Hill","UNC University of North Carolina Chapel Hill",30,"public","ranked","2974",30
+"32",30,1260,9309,"Chestnut Hill","02467",31,70,30170,"MA",NA,"164924",TRUE,3.6,53346,NA,"Boston College","BC",32,"private","ranked","2128",32
+"33",28,1250,6276,"Williamsburg","23187",37,70,42153,"VA",NA,"231624",TRUE,3.3,43099,NA,"College of William and Mary","William & Mary",32,"public","ranked","3705",32
+"34",29,1270,3608,"Waltham","02454",33,68,29288,"MA",3.9,"165015",TRUE,2.9,53582,NA,"Brandeis University",NA,34,"private","ranked","2133",34
+"35",30,1320,15489,"Atlanta","30332",26,68,39518,"GA",3.9,"139755",TRUE,3.5,33014,4.6,"Georgia Institute of Technology","Georgia Tech",34,"public","ranked","1569",34
+"36",29,1250,6386,"Rochester","14627",38,68,28476,"NY",NA,"195030",TRUE,NA,52020,2.7,"University of Rochester",NA,34,"private","ranked","2894",34
+"37",28,1220,17944,"Boston","02215",29,67,34539,"MA",3.6,"164988",TRUE,3.4,52082,3.1,"Boston University","BU",37,"private","ranked","2130",37
+"38",30,1280,5152,"Cleveland","44106",35,67,35248,"OH",NA,"201645",TRUE,3.5,47500,3.3,"Case Western Reserve University",NA,37,"private","ranked","3024",37
+"39",25,1140,21574,"Santa Barbara","93106",36,67,44849,"CA",4,"110705",TRUE,NA,42423,3.4,"University of California--Santa Barbara","UCSB UC Santa Barbara University of California Santa Barbara",37,"public","ranked","1320",37
+"40",31,1330,13473,"Boston","02115",29,66,38521,"MA",NA,"167358",TRUE,3.1,49497,3.1,"Northeastern University",NA,40,"private","ranked","2199",40
+"41",29,1250,6377,"New Orleans","70118",26,66,35111,"LA",3.5,"160755",TRUE,3.2,52960,2.4,"Tulane University",NA,40,"private","ranked","2029",40
+"42",28,1280,6265,"Troy","12180",44,65,35125,"NY",3.9,"194824",TRUE,3.1,52305,3.5,"Rensselaer Polytechnic Institute","RPI",42,"private","ranked","2803",42
+"43",NA,1060,27331,"Irvine","92697",41,65,43506,"CA",4,"110653",TRUE,3.5,43530,3.3,"University of California--Irvine","UC Irvine UCI University of California Irvine",42,"public","ranked","1314",42
+"44",25,1140,28127,"La Jolla","92093",36,65,42933,"CA",4,"110680",TRUE,3.2,44197,3.7,"University of California--San Diego","UCSD University of California San Diego",42,"public","ranked","1317",42
+"45",27,1180,34554,"Gainesville","32611",46,65,36825,"FL",4,"134130",TRUE,3.6,28658,3.4,"University of Florida",NA,42,"public","ranked","1535",42
+"46",29,1230,5080,"Bethlehem","18015",26,64,25376,"PA",NA,"213543",TRUE,2.9,50740,3.2,"Lehigh University",NA,46,"private","ranked","3289",46
+"47",26,1110,3542,"Malibu","90263",37,64,32416,"CA",3.6,"121150",TRUE,3.2,51992,NA,"Pepperdine University",NA,46,"private","ranked","1264",46
+"48",24,1050,29546,"Davis","95616",42,64,44075,"CA",4,"110644",TRUE,NA,42396,3.5,"University of California--Davis","UC Davis University of California Davis",46,"public","ranked","1313",46
+"49",28,1210,10849,"Coral Gables","33124",38,64,34479,"FL",3.6,"135726",TRUE,3.1,48484,2.5,"University of Miami",NA,46,"private","ranked","1536",46
+"50",27,1234,31710,"Madison","53706",53,64,36113,"WI",3.8,"240444",TRUE,3.8,34782,3.9,"University of Wisconsin--Madison","University of Wisconsin Madison",46,"public","ranked","3895",46
+"51",30,1220,6999,"Villanova","19085",44,64,35459,"PA",3.7,"216597",TRUE,3.2,51434,2.5,"Villanova University",NA,46,"private","ranked","3388",46
+"52",25,1090,41359,"University Park","16802",56,63,41789,"PA",3.6,"214777",TRUE,3.7,33664,3.7,"Pennsylvania State University--University Park","Penn State Pennsylvania State University University Park",52,"public","ranked","6965",52
+"53",26,1280,33932,"Champaign","61820",60,63,35977,"IL",NA,"145637",TRUE,3.8,31988,4.4,"University of Illinois--Urbana-Champaign","University of Illinois Urbana Champaign",52,"public","ranked","1775",52
+"54",27,1160,45831,"Columbus","43210",54,62,37032,"OH",NA,"204796",TRUE,3.8,29659,3.5,"Ohio State University--Columbus","OSU  Ohio State University Columbus",54,"public","ranked","6883",54
+"55",26,1140,27951,"Athens","30602",54,62,30943,"GA",4,"139959",TRUE,3.6,30392,2.3,"University of Georgia","UGA",54,"public","ranked","1598",54
+"56",27,1180,11504,"Washington","20052",40,61,37996,"DC",NA,"131469",TRUE,3.3,53518,2.6,"George Washington University","GW GWU",56,"private","ranked","1444",56
+"57",25,1080,30043,"West Lafayette","47907",56,61,28383,"IN",3.7,"243780",TRUE,3.6,28804,4.3,"Purdue University--West Lafayette","Purdue University West Lafayette Purdue University West Lafayette",56,"public","ranked","1825",56
+"58",26,1130,19324,"Storrs","06269",49,61,37427,"CT",NA,"129020",TRUE,3.2,36948,2.9,"University of Connecticut","UConn",56,"public","ranked","29013",56
+"59",26,1140,40168,"Austin","78712",40,61,40558,"TX",NA,"228778",TRUE,4.3,35766,4.1,"University of Texas--Austin","UT Austin University of Texas Austin",56,"public","ranked","3658",56
+"60",26,1120,30933,"Seattle","98195",45,61,47746,"WA",3.8,"236948",TRUE,3.6,35538,3.7,"University of Washington",NA,56,"public","ranked","3798",56
+"61",27,1160,30979,"Provo","84602",51,60,13186,"UT",3.8,"230038",TRUE,3.5,5460,2.6,"Brigham Young University--Provo","BYU Provo Brigham Young University Provo",61,"private","ranked","3670",61
+"62",27,1170,9258,"New York","10023",45,60,NA,"NY",3.6,"191241",TRUE,3.1,50601,NA,"Fordham University",NA,61,"private","ranked","2722",61
+"63",28,1220,6521,"Dallas","75275",49,60,47874,"TX",3.7,"228246",TRUE,3.2,52498,2.5,"Southern Methodist University","SMU",61,"private","ranked","3613",61
+"64",25,1090,15218,"Syracuse","13244",52,60,33912,"NY",3.6,"196413",TRUE,3.3,46755,2.6,"Syracuse University",NA,61,"private","ranked","2882",61
+"65",28,1210,28472,"College Park","20742",48,60,36786,"MD",4,"163286",TRUE,3.7,33606,3.6,"University of Maryland--College Park","UMD UMCP University of Maryland College Park",61,"public","ranked","2103",61
+"66",28,1200,4432,"Worcester","01609",48,60,39995,"MA",3.8,"168421",TRUE,2.6,48628,2.9,"Worcester Polytechnic Institute","WPI",61,"private","ranked","2233",61
+"67",26,1150,18599,"Clemson","29634",51,59,38923,"SC",4,"217882",FALSE,3,35654,3,"Clemson University",NA,67,"public","ranked","3425",67
+"68",27,1190,19123,"Pittsburgh","15260",55,58,NA,"PA",4,"215293",FALSE,3.5,30642,3.1,"University of Pittsburgh","Pitt",68,"public","ranked","3379",68
+"69",26,1150,7901,"Washington","20016",26,57,36076,"DC",3.7,"131159",TRUE,2.9,46615,NA,"American University",NA,69,"private","ranked","1434",69
+"70",NA,1110,36168,"Piscataway","08854",57,57,40121,"NJ",NA,"186380",TRUE,3,30023,3.1,"Rutgers University--New Brunswick","Rutgers University Rutgers, the State University of New Jersey New Brunswick",69,"public","ranked","6964",69
+"71",29,1260,3021,"Hoboken","07030",39,57,51810,"NJ",3.8,"186867",TRUE,2.5,50554,2.7,"Stevens Institute of Technology",NA,69,"private","ranked","2639",69
+"72",24,1070,50735,"College Station","77843",66,57,26376,"TX",NA,"228723",TRUE,3.5,30208,3.9,"Texas A&M University--College Station","Texas A & M University--College Station Texas A and M University--College Station Texas A&M University College Station",69,"public","ranked","10366",69
+"73",26,1180,34871,"Minneapolis","55455",44,57,28170,"MN",NA,"174066",TRUE,3.8,26603,3.6,"University of Minnesota--Twin Cities","University of Minnesota Twin Cities",69,"public","ranked","3969",69
+"74",NA,1100,25791,"Blacksburg","24061",71,57,NA,"VA",3.9,"233921",TRUE,3.2,29371,3.9,"Virginia Tech",NA,69,"public","ranked","3754",69
+"75",26,1120,14348,"Waco","76798",40,56,36761,"TX",NA,"223232",TRUE,3.1,43790,2.4,"Baylor University",NA,75,"private","ranked","6967",75
+"76",29,1250,4612,"Golden","80401",40,56,47042,"CO",3.8,"126775",TRUE,NA,37436,3.1,"Colorado School of Mines",NA,75,"public","ranked","1348",75
+"77",25,1130,23373,"Amherst","01003",60,56,35445,"MA",3.8,"166629",TRUE,3.2,33662,2.9,"University of Massachusetts--Amherst","UMass Amherst University of Massachusetts Amherst",75,"public","ranked","2221",75
+"78",26,1130,16981,"Oxford","45056",65,55,42507,"OH",3.8,"204024",TRUE,3.2,32768,3.1,"Miami University--Oxford","Miami University Oxford Miami University Oxford",78,"public","ranked","7104",78
+"79",25,1070,8891,"Fort Worth","76129",38,55,33953,"TX",NA,"228875",TRUE,3,44760,2.9,"Texas Christian University","TCU",78,"private","ranked","3636",78
+"80",23,1020,24476,"Iowa City","52242",84,55,32794,"IA",3.6,"153658",TRUE,3.5,28813,2.9,"University of Iowa",NA,78,"public","ranked","1892",78
+"81",27,1110,2289,"Worcester","01610",55,54,27702,"MA",3.7,"165334",TRUE,2.5,44400,NA,"Clark University",NA,81,"private","ranked","2139",81
+"82",25,1110,32929,"Tallahassee","32306",58,54,34036,"FL",NA,"134097",TRUE,3.2,21673,NA,"Florida State University","FSU",81,"public","ranked","1489",81
+"83",24,990,39090,"East Lansing","48824",66,54,47279,"MI",3.7,"171100",TRUE,3.6,39405,3.1,"Michigan State University","MSU",81,"public","ranked","2290",81
+"84",27,1170,23847,"Raleigh","27695",46,54,25623,"NC",3.7,"199193",TRUE,2.9,27406,3.4,"North Carolina State University--Raleigh","NC State North Carolina State University Raleigh",81,"public","ranked","2972",81
+"85",23,1060,16962,"Santa Cruz","95064",59,54,47616,"CA",3.7,"110714",TRUE,NA,42042,2.5,"University of California--Santa Cruz","UC Santa Cruz University of California Santa Cruz",81,"public","ranked","1321",81
+"86",23,1090,18374,"Newark","19716",65,54,NA,"DE",3.7,"130943",TRUE,3,32250,3,"University of Delaware",NA,81,"public","ranked","1431",81
+"87",28,1230,13632,"Binghamton","13902",41,53,29356,"NY",3.7,"196079",TRUE,2.7,24403,2.3,"Binghamton University--SUNY","Binghamton University SUNY Binghamton Binghamton University SUNY",87,"public","ranked","2836",87
+"88",26,1110,5754,"Denver","80208",53,53,31393,"CO",3.7,"127060",TRUE,2.9,48669,2,"University of Denver","DU",87,"private","ranked","1371",87
+"89",26,1120,3406,"Tulsa","74104",37,53,49957,"OK",3.9,"207971",TRUE,2.5,39502,2.2,"University of Tulsa",NA,87,"private","ranked","3185",87
+"90",24,1060,39184,"Bloomington","47405",79,52,37563,"IN",3.7,"151351",TRUE,4.1,34845,NA,"Indiana University--Bloomington","IU Bloomington Indiana University Bloomington",90,"public","ranked","1809",90
+"91",24,1040,8238,"Milwaukee","53201",74,52,32894,"WI",NA,"239105",TRUE,2.9,39900,2.4,"Marquette University",NA,90,"private","ranked","3863",90
+"92",25,1070,27846,"Boulder","80309",77,52,41125,"CO",3.7,"126614",TRUE,3.5,35079,3.5,"University of Colorado--Boulder","CU Boulder University of Colorado Boulder",90,"public","ranked","1370",90
+"93",26,1100,5711,"San Diego","92110",51,52,36861,"CA",3.9,"122436",TRUE,2.8,47708,3.5,"University of San Diego",NA,90,"private","ranked","10395",90
+"94",25,1080,13251,"Philadelphia","19104",75,51,42176,"PA",3.7,"212054",TRUE,2.8,52002,3,"Drexel University",NA,94,"private","ranked","3256",94
+"95",24,1120,7454,"St. Louis","63103",65,51,28328,"MO",3.9,"179159",TRUE,2.9,42166,2.2,"Saint Louis University","St Louis University Saint Louis University",94,"private","ranked","2506",94
+"96",23,1090,2714,"New York","10033",51,51,34756,"NY",3.5,"197708",TRUE,2.3,42000,NA,"Yeshiva University",NA,94,"private","ranked","2903",94
+"97",26,1140,12410,"Rochester","14623",55,50,31793,"NY",NA,"195003",TRUE,3.1,40068,2.9,"Rochester Institute of Technology","RIT",97,"private","ranked","2806",97
+"98",26,1150,17026,"Stony Brook","11794",41,50,34024,"NY",3.8,"196097",TRUE,NA,26297,2.8,"Stony Brook University--SUNY","Stony Brook SUNY Stony Brook Stony Brook University SUNY",97,"public","ranked","2838",97
+"99",23,1070,1755,"Syracuse","13210",54,50,NA,"NY",3.7,"196103",TRUE,NA,18090,2,"SUNY College of Environmental Science and Forestry","SUNY ESF",97,"public","ranked","2851",97
+"100",24,1070,20411,"Buffalo","14214",59,50,37040,"NY",3.6,"196088",TRUE,3,26270,2.8,"University at Buffalo--SUNY","SUNY Buffalo University at Buffalo SUNY",97,"public","ranked","9554",97
+"101",23,1060,22436,"Norman","73019",71,50,35144,"OK",3.6,"207500",TRUE,3.1,24443,2.6,"University of Oklahoma",NA,97,"public","ranked","3184",97
+"102",25,1100,11159,"Burlington","05405",69,50,36399,"VT",3.6,"231174",TRUE,2.6,41356,2.3,"University of Vermont","UVM",97,"public","ranked","3696",97
+"103",24,1060,22658,"Auburn","36849",81,49,39912,"AL",3.9,"100858",TRUE,3.1,29640,3,"Auburn University","AU",103,"public","ranked","1009",103
+"104",26,1130,2944,"Chicago","60616",57,49,29116,"IL",4,"145725",TRUE,2.3,45864,2.8,"Illinois Institute of Technology","Illinois Tech IIT",103,"private","ranked","1691",103
+"105",24,1030,11129,"Chicago","60660",73,49,38093,"IL",3.7,"146719",TRUE,3,42828,NA,"Loyola University Chicago",NA,103,"private","ranked","1710",103
+"106",22,990,12871,"Durham","03824",76,49,34826,"NH",3.5,"183044",TRUE,2.6,32637,2.3,"University of New Hampshire","UNH",103,"public","ranked","2589",103
+"107",22,980,20049,"Eugene","97403",78,49,42682,"OR",3.6,"209551",TRUE,3.1,34611,NA,"University of Oregon",NA,103,"public","ranked","3223",103
+"108",25,1120,25556,"Columbia","29208",68,49,41810,"SC",NA,"218663",TRUE,3.2,32362,2.4,"University of South Carolina","USC",103,"public","ranked","3448",103
+"109",24,1040,22139,"Knoxville","37996",77,49,39170,"TN",3.9,"221759",TRUE,3.2,31160,2.9,"University of Tennessee",NA,103,"public","ranked","3530",103
+"110",22,1040,5899,"Washington","20059",30,48,33124,"DC",3.5,"131520",TRUE,2.7,25697,2.2,"Howard University","HU",110,"private","ranked","1448",110
+"111",23,980,32563,"Tuscaloosa","35487",53,48,26861,"AL",3.7,"100751",TRUE,3.2,28100,2.5,"University of Alabama",NA,110,"public","ranked","1051",110
+"112",23,1030,6745,"San Francisco","94117",71,48,42433,"CA",3.4,"122612",TRUE,2.8,46250,NA,"University of San Francisco","USF",110,"private","ranked","1325",110
+"113",23,1030,3483,"Stockton","95211",66,48,37188,"CA",3.5,"120883",TRUE,2.2,46346,2.9,"University of the Pacific",NA,110,"private","ranked","1329",110
+"114",21,1050,23789,"Salt Lake City","84112",76,48,35873,"UT",3.6,"230764",TRUE,3.2,26408,2.9,"University of Utah",NA,110,"public","ranked","3675",110
+"115",22,1020,42477,"Tempe","85287",83,47,37446,"AZ",3.5,"104151",TRUE,3.6,27372,3.3,"Arizona State University--Tempe","ASU",115,"public","ranked","1081",115
+"116",22,980,30671,"Ames","50011",87,47,27241,"IA",3.6,"153603",TRUE,3,22256,3.3,"Iowa State University",NA,115,"public","ranked","1869",115
+"117",24,1050,29275,"Philadelphia","19122",52,47,35109,"PA",3.6,"216339",TRUE,3.2,27266,2.2,"Temple University",NA,115,"public","ranked","3371",115
+"118",23,NA,19262,"Lawrence","66045",93,47,30962,"KS",3.6,"155317",TRUE,3.2,26592,2.7,"University of Kansas","KU",115,"public","ranked","1948",115
+"119",24,1050,6111,"St. Paul","55105",83,47,34299,"MN",3.6,"174914",TRUE,2.7,41133,3.1,"University of St. Thomas","University of St Thomas University of Saint Thomas",115,"private","ranked","2345",115
+"120",23,1040,3241,"Washington","20064",80,46,35518,"DC",3.4,"131283",TRUE,NA,44060,2,"The Catholic University of America","CUA",120,"private","ranked","1437",120
+"121",22,1030,15407,"Chicago","60604",70,46,42438,"IL",3.6,"144740",TRUE,3,39010,NA,"DePaul University",NA,120,"private","ranked","1671",120
+"122",24,1055,6039,"Pittsburgh","15282",74,46,29185,"PA",3.7,"212106",TRUE,2.6,36394,NA,"Duquesne University",NA,120,"private","ranked","3258",120
+"123",23,1020,25898,"Columbia","65211",75,46,27962,"MO",NA,"178396",TRUE,3,26506,2.5,"University of Missouri","Mizzou",120,"public","ranked","2516",120
+"124",24,1080,3268,"Potsdam","13699",68,45,33669,"NY",3.6,"190044",TRUE,2.5,47950,2.6,"Clarkson University",NA,124,"private","ranked","2699",124
+"125",22,1020,25177,"Fort Collins","80523",78,45,39497,"CO",3.6,"126818",TRUE,2.9,29140,2.8,"Colorado State University",NA,124,"public","ranked","1350",124
+"126",25,1073,5829,"Houghton","49931",76,45,38217,"MI",3.7,"171128",TRUE,2.1,32318,2.8,"Michigan Technological University",NA,124,"public","ranked","2292",124
+"127",23,1070,5956,"South Orange","07079",67,45,NA,"NJ",3.6,"186584",TRUE,2.8,40588,NA,"Seton Hall University",NA,124,"private","ranked","2632",124
+"128",21,970,34072,"Tucson","85721",79,45,35051,"AZ",3.5,"104179",TRUE,3.7,32449,3.1,"University of Arizona",NA,124,"public","ranked","1083",124
+"129",21,940,19799,"Riverside","92521",66,45,41753,"CA",3.7,"110671",TRUE,3,41931,2.6,"University of California--Riverside","UC Riverside University of California Riverside",124,"public","ranked","1316",124
+"130",24,1030,8330,"Dayton","45469",60,45,34204,"OH",3.7,"202480",TRUE,2.5,41750,2.2,"University of Dayton",NA,124,"private","ranked","3127",124
+"131",22,990,20833,"Lincoln","68588",75,45,28968,"NE",3.5,"181464",TRUE,3.2,23256,2.6,"University of Nebraska--Lincoln","University of Nebraska Lincoln",124,"public","ranked","2565",124
+"132",24,1070,6899,"Hempstead","11549",62,44,40205,"NY",3.6,"191649",FALSE,2.7,43960,3,"Hofstra University",NA,132,"private","ranked","2732",132
+"133",23,1010,26118,"Baton Rouge","70803",76,43,40711,"LA",3.4,"159391",TRUE,2.8,28051,2.5,"Louisiana State University--Baton Rouge","LSU Baton Rouge Louisiana State University Baton Rouge Louisiana State University Baton Rouge",133,"public","ranked","2010",133
+"134",25,1100,4706,"Macon","31207",69,43,26615,"GA",3.8,"140447",TRUE,2.2,36000,3,"Mercer University",NA,133,"private","ranked","1580",133
+"135",23,1030,7014,"New York","10011",60,43,50853,"NY",3.3,"193654",TRUE,NA,47330,NA,"The New School",NA,133,"private","ranked","20662",133
+"136",NA,910,8170,"Newark","07102",65,43,38949,"NJ",NA,"186399",TRUE,2.9,29480,NA,"Rutgers University--Newark","Rutgers University Rutgers, the State University of New Jersey Newark",133,"public","ranked","2631",133
+"137",23,1010,22548,"Fayetteville","72701",63,43,33514,"AR",3.7,"106397",TRUE,3.2,24308,2.5,"University of Arkansas",NA,133,"public","ranked","1108",133
+"138",23,1030,25860,"Cincinnati","45221",76,43,35124,"OH",3.6,"201885",TRUE,2.9,26334,2.6,"University of Cincinnati",NA,133,"public","ranked","3125",133
+"139",22,980,22621,"Lexington","40506",91,43,NA,"KY",3.7,"157085",TRUE,3,28046,2.5,"University of Kentucky",NA,133,"public","ranked","1989",133
+"140",24,1060,23812,"Fairfax","22030",81,42,38588,"VA",3.7,"232186",TRUE,3,34370,2.4,"George Mason University","GMU",140,"public","ranked","3749",140
+"141",23,1110,8211,"Newark","07102",59,42,18674,"NJ",3.5,"185828",TRUE,2.4,31034,2.6,"New Jersey Institute of Technology","NJIT",140,"public","ranked","2621",140
+"142",23,1000,29853,"San Diego","92182",35,42,31354,"CA",3.7,"122409",TRUE,2.9,19340,2.5,"San Diego State University","SDSU",140,"public","ranked","1151",140
+"143",24,1070,31461,"Tampa","33620",47,42,23103,"FL",3.9,"137351",TRUE,2.5,17324,2.4,"University of South Florida",NA,140,"public","ranked","1537",140
+"144",20,930,24904,"Pullman","99164",72,42,30666,"WA",3.4,"236939",TRUE,2.8,25817,2.8,"Washington State University",NA,140,"public","ranked","3800",140
+"145",22,950,19472,"Manhattan","66506",94,41,34621,"KS",3.5,"155399",TRUE,2.8,24775,2.7,"Kansas State University",NA,145,"public","ranked","1928",145
+"146",22,990,25327,"Corvallis","97331",77,41,36636,"OR",3.7,"209542",TRUE,2.7,29457,2.8,"Oregon State University",NA,145,"public","ranked","3210",145
+"147",22,970,2786,"Rochester","14618",65,41,28750,"NY",3.6,"195720",TRUE,2.1,33120,NA,"St. John Fisher College","St John Fisher College Saint John Fisher College",145,"private","ranked","2821",145
+"148",21,990,17959,"Chicago","60607",74,41,39033,"IL",3.3,"145600",TRUE,3,27672,2.8,"University of Illinois--Chicago","UIC University of Illinois Chicago",145,"public","ranked","1776",145
+"149",22,1000,19213,"University","38677",78,41,27943,"MS",3.6,"176017",TRUE,2.8,23554,2.1,"University of Mississippi","Ole Miss",145,"public","ranked","2440",145
+"150",25,1140,17350,"Richardson","75080",68,41,37028,"TX",NA,"228787",TRUE,3.1,33654,2.6,"University of Texas--Dallas","University of Texas Dallas",145,"public","ranked","9741",145
+"151",22,1010,5205,"Garden City","11530",70,40,NA,"NY",3.6,"188429",TRUE,2.1,37170,NA,"Adelphi University",NA,151,"private","ranked","2666",151
+"152",24,1060,3629,"Melbourne","32901",61,40,NA,"FL",3.6,"133881",TRUE,NA,41240,2.1,"Florida Institute of Technology","Florida Tech",151,"private","ranked","1469",151
+"153",21,990,23788,"Athens","45701",75,40,NA,"OH",3.5,"204857",TRUE,2.7,21360,2.3,"Ohio University","OU",151,"public","ranked","3100",151
+"154",21,990,3095,"Seattle","98119",87,40,NA,"WA",3.5,"236577",TRUE,2.1,40893,2.9,"Seattle Pacific University",NA,151,"private","ranked","3788",151
+"155",22,1010,13139,"Albany","12222",54,40,NA,"NY",3.2,"196060",TRUE,2.8,24358,NA,"University at Albany--SUNY","SUNY Albany University at Albany SUNY",151,"public","ranked","2835",151
+"156",21,970,21093,"Stillwater","74078",75,39,NA,"OK",3.5,"207388",TRUE,2.9,23776,2.6,"Oklahoma State University","OSU",156,"public","ranked","3170",156
+"157",24,1070,13639,"Lowell","01854",60,39,NA,"MA",3.6,"166513",TRUE,2.4,31865,2.3,"University of Massachusetts--Lowell","UMass University of Massachusetts Lowell",156,"public","ranked","2161",156
+"158",22,990,14801,"Kingston","02881",71,39,NA,"RI",3.5,"217484",TRUE,2.6,28874,2.4,"University of Rhode Island","URI",156,"public","ranked","3414",156
+"159",21,950,4091,"La Mirada","90639",65,38,NA,"CA",3.5,"110097",TRUE,NA,38448,NA,"Biola University",NA,159,"private","ranked","1122",159
+"160",21,NA,18643,"Normal","61790",89,38,NA,"IL",3.4,"145813",TRUE,2.4,25168,NA,"Illinois State University",NA,159,"public","ranked","1692",159
+"161",21,965,12369,"Birmingham","35294",89,38,NA,"AL",3.7,"100663",TRUE,2.8,23790,2.2,"University of Alabama--Birmingham","UAB University of Alabama Birmingham",159,"public","ranked","1052",159
+"162",21,970,13132,"Honolulu","96822",80,38,NA,"HI",3.5,"141574",TRUE,2.8,33764,2.2,"University of Hawaii--Manoa","UH Manoa University of Hawaii Manoa",159,"public","ranked","1610",159
+"163",20,930,2809,"La Verne","91750",48,38,NA,"CA",3.5,"117140",TRUE,NA,41450,NA,"University of La Verne",NA,159,"private","ranked","1216",159
+"164",24,1120,11142,"Baltimore","21250",57,38,NA,"MD",NA,"163268",TRUE,NA,25654,2.4,"University of Maryland--Baltimore County","UMBC University of Maryland Baltimore County",159,"public","ranked","2105",159
+"165",18,860,1555,"Immaculata","19345",82,37,NA,"PA",3.3,"213011",TRUE,NA,27350,NA,"Immaculata University",NA,165,"private","ranked","3276",165
+"166",22,900,2967,"St Louis","63141",93,37,NA,"MO",3.6,"178059",TRUE,NA,28470,NA,"Maryville University of St. Louis","Maryville University of St Louis Maryville University of Saint Louis",165,"private","ranked","2482",165
+"167",25,1186,6909,"Rolla","65409",79,37,NA,"MO",3.6,"178411",TRUE,2.1,27701,2.9,"Missouri University of Science & Technology","Missouri University of Science and Technology",165,"public","ranked","2517",165
+"168",22,970,16440,"Queens","11439",63,37,NA,"NY",3.5,"195809",TRUE,2.5,40790,NA,"St. John's University","St John's University Saint John's University St Johns University Saint Johns University St. Johns University",165,"private","ranked","2823",165
+"169",18,860,6815,"Merced","95343",74,37,NA,"CA",3.5,"445188",TRUE,NA,41612,2.1,"University of California--Merced",NA,165,"public","ranked","4127",165
+"170",22,1000,15827,"Louisville","40292",73,37,NA,"KY",3.5,"157289",TRUE,2.8,26286,2.3,"University of Louisville",NA,165,"public","ranked","1999",165
+"171",21,990,18090,"Mississippi State","39762",71,36,NA,"MS",3.4,"176080",TRUE,2.6,22358,2.4,"Mississippi State University",NA,171,"public","ranked","2423",171
+"172",NA,990,14344,"Glassboro","08028",58,36,NA,"NJ",3.5,"184782",TRUE,2.2,21378,3.3,"Rowan University",NA,171,"public","ranked","2609",171
+"173",24,1080,55776,"Orlando","32816",50,36,NA,"FL",3.9,"132903",TRUE,2.7,22467,2.6,"University of Central Florida","UCF",171,"public","ranked","3954",171
+"174",21,930,9586,"Moscow","83844",76,36,NA,"ID",3.4,"142285",TRUE,2.6,23812,2.2,"University of Idaho",NA,171,"public","ranked","1626",171
+"175",21,980,24212,"Richmond","23284",75,36,NA,"VA",3.6,"234030",TRUE,2.7,32942,2.3,"Virginia Commonwealth University","VCU",171,"public","ranked","3735",171
+"176",21,950,23684,"Kent","44242",85,35,NA,"OH",3.4,"203517",TRUE,2.6,18376,NA,"Kent State University",NA,176,"public","ranked","3051",176
+"177",21,940,4384,"Moon Township","15108",80,35,NA,"PA",3.5,"215655",TRUE,2.1,29420,2.4,"Robert Morris University",NA,176,"private","ranked","3359",176
+"178",22,1020,29963,"Lubbock","79409",63,35,NA,"TX",3.5,"229115",TRUE,2.8,23011,2.6,"Texas Tech University",NA,176,"public","ranked","3644",176
+"179",23,1020,2214,"Jackson","38305",63,35,NA,"TN",NA,"221971",TRUE,NA,31580,2.7,"Union University",NA,176,"private","ranked","3528",176
+"180",20,920,5150,"West Hartford","06117",72,35,NA,"CT",NA,"129525",TRUE,2.4,38910,2.8,"University of Hartford",NA,176,"private","ranked","1422",176
+"181",21,955,1661,"Madison","53711",78,34,NA,"WI",3.4,"238661",TRUE,NA,28500,NA,"Edgewood College",NA,181,"private","ranked","3848",181
+"182",21,960,1929,"Cambridge","02138",64,34,NA,"MA",3.3,"166452",TRUE,NA,26550,NA,"Lesley University",NA,181,"private","ranked","2160",181
+"183",22,990,2986,"Nashville","37204",61,34,NA,"TN",3.6,"219976",TRUE,NA,30932,2.5,"Lipscomb University",NA,181,"private","ranked","3486",181
+"184",20,910,5290,"Boston","02108",84,34,NA,"MA",3.2,"168005",TRUE,2.2,37270,2,"Suffolk University",NA,181,"private","ranked","2218",181
+"185",21,950,9323,"Orono","04469",90,34,NA,"ME",3.2,"161253",TRUE,2.4,30282,2.2,"University of Maine","UMaine",181,"public","ranked","2053",181
+"186",21,960,9788,"Laramie","82071",95,34,NA,"WY",3.5,"240727",TRUE,2.5,16827,2.2,"University of Wyoming",NA,181,"public","ranked","3932",181
+"187",21,930,5770,"Azusa","91702",84,33,NA,"CA",3.7,"109785",TRUE,NA,36120,NA,"Azusa Pacific University",NA,187,"private","ranked","1117",187
+"188",20,990,17011,"Muncie","47306",62,33,NA,"IN",3.5,"150136",TRUE,2.6,25938,NA,"Ball State University",NA,187,"public","ranked","1786",187
+"189",15,870,16810,"Montclair","07043",66,33,NA,"NJ",3.2,"185590",TRUE,2.2,20566,NA,"Montclair State University",NA,187,"public","ranked","2617",187
+"190",21,940,8914,"New York","10038",84,33,NA,"NY",3.3,"194310",TRUE,2.6,44036,NA,"Pace University",NA,187,"private","ranked","2791",187
+"191",21,930,22350,"Morgantown","26506",76,33,NA,"WV",3.5,"238032",TRUE,2.6,23616,2.4,"West Virginia University","WVU",187,"public","ranked","3827",187
+"192",21,930,1688,"Berrien Springs","49104",40,32,NA,"MI",3.5,"168740",TRUE,NA,28436,NA,"Andrews University",NA,192,"private","ranked","2238",192
+"193",19,890,21748,"Indianapolis","46202",74,32,NA,"IN",3.5,"151111",TRUE,NA,29806,2.5,"Indiana University-Purdue University--Indianapolis","IUPUI Indiana University-Purdue University Indianapolis Indiana University Purdue University Indianapolis",192,"public","ranked","1813",192
+"194",23,1040,35871,"Houston","77204",59,32,NA,"TX",NA,"225511",TRUE,2.9,27337,2.6,"University of Houston",NA,192,"public","ranked","3652",192
+"195",19,950,20215,"Albuquerque","87131",47,32,NA,"NM",3.4,"187985",TRUE,2.7,22412,2.6,"University of New Mexico",NA,192,"public","ranked","10313",192
+"196",21,960,11255,"Grand Forks","58202",84,32,NA,"ND",3.4,"200280",TRUE,2.4,21462,NA,"University of North Dakota",NA,192,"public","ranked","3005",192
+"197",21,930,3591,"Chester","19013",70,32,NA,"PA",3.5,"216852",TRUE,2,44166,2.5,"Widener University",NA,192,"private","ranked","3313",192
+"198",18,820,12027,"Las Cruces","88003",60,31,NA,"NM",3.5,"188030",TRUE,2.4,22701,2.3,"New Mexico State University","NMSU",198,"public","ranked","2657",198
+"199",21,1000,12010,"Fargo","58108",93,31,NA,"ND",3.4,"200332",TRUE,2.2,20571,2,"North Dakota State University",NA,198,"public","ranked","9265",198
+"200",22,1000,4295,"Ft. Lauderdale","33314",53,31,NA,"FL",NA,"136215",TRUE,NA,29940,NA,"Nova Southeastern University",NA,198,"private","ranked","1509",198
+"201",22,1030,23404,"Charlotte","28223",62,31,NA,"NC",3.9,"199139",TRUE,2.8,20268,2.6,"University of North Carolina--Charlotte","UNC University of North Carolina Charlotte",198,"public","ranked","2975",198
+"202",20,920,14852,"Bowling Green","43403",75,30,NA,"OH",3.4,"201441",TRUE,2.5,18593,NA,"Bowling Green State University","BGSU",202,"public","ranked","3018",202
+"203",19,920,34576,"Fullerton","92831",48,30,NA,"CA",3.6,"110565",TRUE,2.6,17460,2.8,"California State University--Fullerton","Cal State University Fullerton California State University Fullerton",202,"public","ranked","1137",202
+"204",19,1030,3223,"Dallas","75211",43,30,NA,"TX",3.7,"224226",TRUE,NA,27480,NA,"Dallas Baptist University",NA,202,"private","ranked","3560",202
+"205",21,960,12847,"Boston","02125",69,30,NA,"MA",3.3,"166638",TRUE,2.6,32985,NA,"University of Massachusetts--Boston","UMass University of Massachusetts Boston",202,"public","ranked","2222",202
+"206",21,970,18191,"Reno","89557",83,30,NA,"NV",3.6,"182290",TRUE,2.3,21787,2.2,"University of Nevada--Reno","University of Nevada Reno",202,"public","ranked","2568",202
+"207",20,890,19923,"Mount Pleasant","48859",72,29,NA,"MI",3.4,"169248",TRUE,2.3,23670,2.6,"Central Michigan University",NA,207,"public","ranked","2243",207
+"208",20,970,22969,"Greenville","27858",70,29,NA,"NC",3.8,"198464",TRUE,2.2,23420,2.5,"East Carolina University","ECU",207,"public","ranked","2923",207
+"209",19,900,7769,"Tallahassee","32307",31,29,NA,"FL",3.5,"133650",TRUE,NA,17725,2.3,"Florida A&M University","Florida A & M Florida A and M FAM",207,"public","ranked","1480",207
+"210",21,1010,14400,"Bozeman","59717",83,29,NA,"MT",3.4,"180461",TRUE,2.3,23042,2.2,"Montana State University","MSU",207,"public","ranked","2532",207
+"211",19,950,7239,"Fairbanks","99775",73,29,NA,"AK",3.3,"102614",TRUE,2.2,23534,2.1,"University of Alaska--Fairbanks","University of Alaska Fairbanks",207,"public","ranked","1063",207
+"212",21,960,14622,"Denver","80217",61,29,NA,"CO",3.4,"126562",TRUE,2.9,31209,2.2,"University of Colorado--Denver","UC Denver University of Colorado Denver",207,"public","ranked","6740",207
+"213",20,910,6999,"North Dartmouth","02747",76,29,NA,"MA",3.2,"167987",TRUE,2.6,28285,2.2,"University of Massachusetts--Dartmouth","UMass University of Massachusetts Dartmouth",207,"public","ranked","2210",207
+"214",20,950,10077,"Missoula","59812",92,29,NA,"MT",3.3,"180489",TRUE,2.6,24943,NA,"University of Montana","UMT",207,"public","ranked","2536",207
+"215",19,NA,18313,"Kalamazoo","49008",82,29,NA,"MI",3.3,"172699",TRUE,2.5,14699,NA,"Western Michigan University",NA,207,"public","ranked","2330",207
+"216",23,1030,45813,"Miami","33199",49,28,NA,"FL",3.9,"133951",TRUE,2.6,18956,2.1,"Florida International University","FIU",216,"public","ranked","9635",216
+"217",21,980,11281,"Ruston","71272",63,28,NA,"LA",3.7,"159647",TRUE,2.3,18438,2.2,"Louisiana Tech University",NA,216,"public","ranked","2008",216
+"218",20,890,10959,"Brookings","57007",91,28,NA,"SD",3.4,"219356",TRUE,NA,11403,NA,"South Dakota State University",NA,216,"public","ranked","3471",216
+"219",19,880,12182,"Carbondale","62901",77,28,NA,"IL",3.1,"149222",TRUE,2.5,13936,2,"Southern Illinois University--Carbondale","Southern Illinois University Carbondale Southern Illinois University Carbondale",216,"public","ranked","1758",216
+"220",25,1060,6507,"Huntsville","35899",76,28,NA,"AL",3.8,"100706",TRUE,2.5,21480,2.4,"University of Alabama--Huntsville","University of Alabama Huntsville",216,"public","ranked","1055",216
+"221",21,980,11708,"Kansas City","64110",62,28,NA,"MO",3.4,"178402",TRUE,2.6,25999,NA,"University of Missouri--Kansas City","UMKC University of Missouri Kansas City",216,"public","ranked","2518",216
+"222",20,980,24838,"Logan","84322",90,28,NA,"UT",3.5,"230728",TRUE,2.5,20726,2.4,"Utah State University",NA,216,"public","ranked","3677",216
+"223",20,950,4536,"Ashland","44805",72,27,NA,"OH",3.4,"201104",TRUE,NA,20700,NA,"Ashland University",NA,223,"private","ranked","3012",223
+"224",20,NA,3171,"Lisle","60532",73,27,NA,"IL",3.4,"145619",TRUE,NA,33900,NA,"Benedictine University",NA,223,"private","ranked","1767",223
+"225",16,800,21528,"Fresno","93740",54,27,NA,"CA",3.5,"110556",TRUE,2.3,17929,2.7,"California State University--Fresno","Cal State University Fresno California State University Fresno",223,"public","ranked","1147",223
+"226",18,870,2362,"Boiling Springs","28017",52,27,NA,"NC",3.7,"198561",TRUE,NA,30740,NA,"Gardner-Webb University","Gardner Webb Gardner Webb University",223,"private","ranked","2929",223
+"227",20,950,25455,"Atlanta","30302",53,27,NA,"GA",3.4,"139940",TRUE,3.1,29432,NA,"Georgia State University",NA,223,"public","ranked","1574",223
+"228",19,880,2099,"Winchester","22601",88,27,NA,"VA",3.4,"233541",TRUE,2,31920,NA,"Shenandoah University",NA,223,"private","ranked","3737",223
+"229",19,830,7500,"Vermillion","57069",88,27,NA,"SD",3,"219471",TRUE,2.4,11688,NA,"University of South Dakota",NA,223,"public","ranked","10300",223
+"230",20,983,17280,"Detroit","48202",68,27,NA,"MI",3.4,"172644",TRUE,2.4,28590,2.2,"Wayne State University",NA,223,"public","ranked","2329",223
+"231",16,790,1424,"Springfield","01109",64,NA,NA,"MA",NA,"164447",FALSE,NA,33140,NA,"American International College",NA,-1,"private","rnp","2114",NA
+"232",NA,930,5133,"Augusta","30912",74,NA,NA,"GA",NA,"482149",FALSE,NA,23606,NA,"Augusta University",NA,-1,"public","rnp","1579",NA
+"233",18,850,3541,"Miami Shores","33161",62,NA,NA,"FL",NA,"132471",FALSE,2,29700,NA,"Barry University",NA,-1,"private","rnp","1466",NA
+"234",20,910,20209,"Boise","83725",82,NA,NA,"ID",3.4,"142115",FALSE,2.5,22642,2.2,"Boise State University",NA,-1,"public","rnp","1616",NA
+"235",18,973,1534,"Milwaukee","53217",82,NA,NA,"WI",3.1,"238430",FALSE,NA,28844,NA,"Cardinal Stritch University",NA,-1,"private","rnp","3837",NA
+"236",18,820,3093,"Atlanta","30314",72,NA,NA,"GA",3.2,"138947",FALSE,NA,23082,NA,"Clark Atlanta University",NA,-1,"private","rnp","1551",NA
+"237",19,890,12433,"Cleveland","44115",88,NA,NA,"OH",3.3,"202134",FALSE,2.2,13848,2.1,"Cleveland State University","CSU",-1,"public","rnp","3032",NA
+"238",19,910,17541,"Ypsilanti","48197",73,NA,NA,"MI",3.3,"169798",FALSE,2.2,11530,NA,"Eastern Michigan University","EMU",-1,"public","rnp","2259",NA
+"239",20,920,11065,"Johnson City","37614",80,NA,NA,"TN",3.5,"220075",FALSE,2.1,26463,NA,"East Tennessee State University","ETSU",-1,"public","rnp","3487",NA
+"240",20,950,25402,"Boca Raton","33431",60,NA,NA,"FL",4,"133669",FALSE,2.4,21595,NA,"Florida Atlantic University",NA,-1,"public","rnp","1481",NA
+"241",22,1030,18005,"Statesboro","30460",65,NA,NA,"GA",3.3,"139931",FALSE,2.3,18692,2.4,"Georgia Southern University",NA,-1,"public","rnp","1572",NA
+"242",NA,NA,NA,"Phoenix","85017",43,NA,NA,"AZ",NA,"104717",FALSE,NA,17050,NA,"Grand Canyon University",NA,-1,"proprietary","rnp","1074",NA
+"243",16,790,11202,"Terre Haute","47809",86,NA,NA,"IN",3.1,"151324",FALSE,2.4,19454,NA,"Indiana State University",NA,-1,"public","rnp","9563",NA
+"244",NA,840,10618,"Indiana","15705",92,NA,NA,"PA",NA,"213020",FALSE,2.1,15882,NA,"Indiana University of Pennsylvania",NA,-1,"public","rnp","3277",NA
+"245",16,810,7492,"Jackson","39217",69,NA,NA,"MS",2.9,"175856",FALSE,NA,17614,NA,"Jackson State University",NA,-1,"public","rnp","2410",NA
+"246",21,1000,32166,"Kennesaw","30144",59,NA,NA,"GA",3.3,"140164",FALSE,2.7,21158,2.4,"Kennesaw State University",NA,-1,"public","rnp","1577",NA
+"247",18,860,9326,"Beaumont","77710",76,NA,NA,"TX",3.2,"226091",FALSE,2,22561,NA,"Lamar University",NA,-1,"public","rnp","3581",NA
+"248",21,950,47050,"Lynchburg","24502",28,NA,NA,"VA",3.5,"232557",FALSE,NA,24304,2.2,"Liberty University",NA,-1,"private","rnp","10392",NA
+"249",20,920,7549,"St. Charles","63301",55,NA,NA,"MO",3.3,"177968",FALSE,NA,16960,NA,"Lindenwood University",NA,-1,"private","rnp","2480",NA
+"250",19,950,19693,"Murfreesboro","37132",69,NA,NA,"TN",3.4,"220978",FALSE,2.2,27578,NA,"Middle Tennessee State University",NA,-1,"public","rnp","3510",NA
+"251",16,800,6362,"Baltimore","21251",60,NA,NA,"MD",3,"163453",FALSE,2,17833,NA,"Morgan State University",NA,-1,"public","rnp","2083",NA
+"252",NA,NA,NA,"Chicago","60603",81,NA,NA,"IL",NA,"147536",FALSE,NA,10380,NA,"National Louis University","National Louis University",-1,"private","rnp","1733",NA
+"253",18,850,9668,"Greensboro","27411",54,NA,NA,"NC",3.5,"199102",FALSE,NA,19416,2.2,"North Carolina A&T State University","North Carolina A & T State University North Carolina A and T State University",-1,"public","rnp","2905",NA
+"254",20,940,26506,"Flagstaff","86011",78,NA,NA,"AZ",3.6,"105330",FALSE,2.5,24841,2.8,"Northern Arizona University","NAU",-1,"public","rnp","1082",NA
+"255",19,NA,14079,"DeKalb","60115",52,NA,NA,"IL",3.3,"147703",FALSE,2.6,23817,2.7,"Northern Illinois University",NA,-1,"public","rnp","1737",NA
+"256",20,805,16568,"Rochester","48309",86,NA,NA,"MI",3.4,"171571",FALSE,2,24735,NA,"Oakland University",NA,-1,"public","rnp","2307",NA
+"257",18,890,19793,"Norfolk","23529",85,NA,NA,"VA",3.3,"232982",FALSE,2.5,28200,2.2,"Old Dominion University","ODU",-1,"public","rnp","3728",NA
+"258",19,930,21633,"Portland","97207",89,NA,NA,"OR",3.4,"209807",FALSE,2.5,21180,2.2,"Portland State University","PSU",-1,"public","rnp","3216",NA
+"259",15,750,7455,"Prairie View","77446",85,NA,NA,"TX",3,"227526",FALSE,NA,10059,NA,"Prairie View A&M University","Prairie View A & M University Prairie View A and M University",-1,"public","rnp","3630",NA
+"260",19,920,3806,"Virginia Beach","23464",83,NA,NA,"VA",3.5,"231651",FALSE,NA,17450,NA,"Regent University",NA,-1,"private","rnp","30913",NA
+"261",19,870,17902,"Huntsville","77340",72,NA,NA,"TX",NA,"227881",FALSE,2.1,22340,NA,"Sam Houston State University",NA,-1,"public","rnp","3606",NA
+"262",18,860,25945,"San Francisco","94132",68,NA,NA,"CA",3.2,"122597",FALSE,2.5,19134,2.6,"San Francisco State University","SFSU",-1,"public","rnp","1154",NA
+"263",18,NA,NA,"Louisville","40203",50,NA,NA,"KY",NA,"157757",FALSE,NA,24388,NA,"Spalding University",NA,-1,"private","rnp","1960",NA
+"264",16,788,7007,"Nashville","37209",53,NA,NA,"TN",2.9,"221838",FALSE,2,20178,NA,"Tennessee State University",NA,-1,"public","rnp","3522",NA
+"265",21,960,9437,"Cookeville","38505",67,NA,NA,"TN",3.6,"221847",FALSE,NA,26190,2.1,"Tennessee Technological University",NA,-1,"public","rnp","3523",NA
+"266",17,850,7605,"Commerce","75429",45,NA,NA,"TX",3.3,"224554",FALSE,2.1,20884,2.2,"Texas A&M University--Commerce","Texas A & M University--Commerce Texas A and M University--Commerce Texas A&M University Commerce",-1,"public","rnp","3565",NA
+"267",17,850,10212,"Corpus Christi","78412",86,NA,NA,"TX",3.3,"224147",FALSE,2.2,26061,2.5,"Texas A&M University--Corpus Christi","Texas A & M University--Corpus Christi Texas A and M University--Corpus Christi Texas A&M University Corpus Christi",-1,"public","rnp","11161",NA
+"268",17,850,6811,"Kingsville","78363",82,NA,NA,"TX",3.3,"228705",FALSE,NA,20912,NA,"Texas A&M University--Kingsville","Texas A & M University--Kingsville Texas A and M University--Kingsville Texas A&M University Kingsville",-1,"public","rnp","3639",NA
+"269",15,715,6562,"Houston","77004",51,NA,NA,"TX",2.9,"229063",FALSE,2.1,21240,NA,"Texas Southern University",NA,-1,"public","rnp","3642",NA
+"270",20,930,34244,"San Marcos","78666",71,NA,NA,"TX",NA,"228459",FALSE,2.2,23071,NA,"Texas State University","Texas State University San Marcos",-1,"public","rnp","3615",NA
+"271",17,820,10408,"Denton","76204",86,NA,NA,"TX",3.1,"229179",FALSE,NA,21816,NA,"Texas Woman's University","Texas Womans University",-1,"public","rnp","3646",NA
+"272",19,930,2092,"Nashville","37210",72,NA,NA,"TN",3.4,"221892",FALSE,NA,25100,NA,"Trevecca Nazarene University",NA,-1,"private","rnp","3526",NA
+"273",19,880,1076,"Deerfield","60015",88,NA,NA,"IL",3.2,"149514",FALSE,NA,30750,NA,"Trinity International University",NA,-1,"private","rnp","1772",NA
+"274",19,910,17416,"Akron","44325",96,NA,NA,"OH",3.3,"200800",FALSE,2.3,21863,2.1,"University of Akron",NA,-1,"public","rnp","3123",NA
+"275",19,930,9374,"Little Rock","72204",77,NA,NA,"AR",3.1,"106245",FALSE,2.5,19797,2,"University of Arkansas--Little Rock","University of Arkansas Little Rock",-1,"public","rnp","1101",NA
+"276",21,940,15998,"Lafayette","70504",52,NA,NA,"LA",3.3,"160658",FALSE,2.3,23074,NA,"University of Louisiana--Lafayette","University of Louisiana Lafayette",-1,"public","rnp","2031",NA
+"277",19,920,7778,"Monroe","71209",86,NA,NA,"LA",3.5,"159993",FALSE,2,20381,NA,"University of Louisiana--Monroe","University of Louisiana Monroe",-1,"public","rnp","2020",NA
+"278",17,790,3278,"Princess Anne","21853",38,NA,NA,"MD",2.9,"163338",FALSE,2,18048,2.4,"University of Maryland--Eastern Shore","University of Maryland Eastern Shore",-1,"public","rnp","2106",NA
+"279",19,890,17176,"Memphis","38152",94,NA,NA,"TN",3.4,"220862",FALSE,2.7,21413,2.1,"University of Memphis",NA,-1,"public","rnp","3509",NA
+"280",21,940,13923,"St. Louis","63121",71,NA,NA,"MO",3.4,"178420",FALSE,2.6,27327,2.7,"University of Missouri--St. Louis","University of Missouri St. Louis",-1,"public","rnp","2519",NA
+"281",19,930,12536,"Omaha","68182",86,NA,NA,"NE",3.4,"181394",FALSE,2.6,22035,NA,"University of Nebraska--Omaha","University of Nebraska Omaha",-1,"public","rnp","2554",NA
+"282",19,900,24714,"Las Vegas","89154",83,NA,NA,"NV",3.3,"182281",FALSE,2.5,21498,2.2,"University of Nevada--Las Vegas","UNLV University of Nevada Las Vegas",-1,"public","rnp","2569",NA
+"283",20,950,6442,"New Orleans","70148",60,NA,NA,"LA",3.2,"159939",FALSE,2.4,13530,NA,"University of New Orleans",NA,-1,"public","rnp","2015",NA
+"284",21,910,16281,"Greensboro","27402",74,NA,NA,"NC",3.8,"199148",FALSE,2.6,22410,NA,"University of North Carolina--Greensboro","UNC University of North Carolina Greensboro",-1,"public","rnp","2976",NA
+"285",19,930,9503,"Greeley","80639",90,NA,NA,"CO",3.3,"127741",FALSE,2.3,20474,NA,"University of Northern Colorado",NA,-1,"public","rnp","1349",NA
+"286",20,980,31209,"Denton","76203",72,NA,NA,"TX",NA,"227216",FALSE,2.4,23716,NA,"University of North Texas",NA,-1,"public","rnp","3594",NA
+"287",20,875,11761,"Mobile","36688",80,NA,NA,"AL",3.5,"102094",FALSE,2.1,19586,2.6,"University of South Alabama",NA,-1,"public","rnp","1057",NA
+"288",20,940,11779,"Hattiesburg","39406",60,NA,NA,"MS",3.3,"176372",FALSE,2.2,9854,NA,"University of Southern Mississippi",NA,-1,"public","rnp","2441",NA
+"289",20,950,32775,"Arlington","76019",70,NA,NA,"TX",NA,"228769",FALSE,2.7,25152,2.4,"University of Texas--Arlington","UT Arlington University of Texas Arlington",-1,"public","rnp","3656",NA
+"290",17,810,20521,"El Paso","79968",100,NA,NA,"TX",3.2,"228796",FALSE,2.3,21396,2.1,"University of Texas--El Paso","UTEP University of Texas El Paso",-1,"public","rnp","3661",NA
+"291",18,850,24433,"Edinburg","78539",63,NA,NA,"TX",NA,"227368",FALSE,NA,17230,2.1,"University of Texas--Rio Grande Valley",NA,-1,"public","rnp","666978",NA
+"292",20,920,24724,"San Antonio","78249",76,NA,NA,"TX",NA,"229027",FALSE,2.4,23379,2.1,"University of Texas--San Antonio","University of Texas San Antonio",-1,"public","rnp","10115",NA
+"293",19,860,3082,"Williamsburg","40769",71,NA,NA,"KY",3.5,"156541",FALSE,NA,23000,NA,"University of the Cumberlands",NA,-1,"private","rnp","1962",NA
+"294",20,920,16247,"Toledo","43606",94,NA,NA,"OH",3.4,"206084",FALSE,2.3,18578,2.1,"University of Toledo",NA,-1,"public","rnp","3131",NA
+"295",21,930,10082,"Pensacola","32514",41,NA,NA,"FL",3.6,"138354",FALSE,NA,18628,2.1,"University of West Florida",NA,-1,"public","rnp","3955",NA
+"296",18,870,11155,"Carrollton","30118",59,NA,NA,"GA",3.2,"141334",FALSE,2,20406,NA,"University of West Georgia",NA,-1,"public","rnp","1601",NA
+"297",20,NA,21375,"Milwaukee","53201",72,NA,NA,"WI",3.1,"240453",FALSE,2.8,19851,2.4,"University of Wisconsin--Milwaukee","University of Wisconsin Milwaukee",-1,"public","rnp","3896",NA
+"298",19,890,8780,"Valdosta","31698",65,NA,NA,"GA",3.2,"141264",FALSE,2.1,17196,NA,"Valdosta State University",NA,-1,"public","rnp","1599",NA
+"299",21,915,11823,"Wichita","67260",92,NA,NA,"KS",3.4,"156125",FALSE,2.3,17270,2.2,"Wichita State University",NA,-1,"public","rnp","1950",NA
+"300",18,930,12504,"Dayton","45435",95,NA,NA,"OH",3.3,"206604",FALSE,2.3,17350,2.2,"Wright State University",NA,-1,"public","rnp","9168",NA
+"301",NA,NA,1264,"San Diego","92131",NA,NA,NA,"CA",2.8,"110468",FALSE,NA,17510,NA,"Alliant International University",NA,-2,"private","ur","1158",NA
+"302",NA,NA,NA,"Orange","92868",NA,NA,NA,"CA",NA,"145770",FALSE,NA,13152,NA,"Argosy University","Argosy University Chicago",-2,"proprietary","ur","21799",NA
+"303",NA,NA,NA,"San Francisco","94103",NA,NA,NA,"CA",NA,"110316",FALSE,NA,28467,NA,"California Institute of Integral Studies",NA,-2,"private","ur","12154",NA
+"304",NA,NA,NA,"Minneapolis","55403",NA,NA,NA,"MN",NA,"413413",FALSE,NA,13998,NA,"Capella University",NA,-2,"proprietary","ur","32673",NA
+"305",NA,NA,NA,"Pocatello","83209",NA,NA,NA,"ID",NA,"142276",FALSE,2.4,21023,2.1,"Idaho State University",NA,-2,"public","ur","1620",NA
+"306",NA,NA,133,"San Diego","86314",NA,NA,NA,"AZ",NA,"444130",FALSE,NA,10368,NA,"Northcentral University",NA,-2,"proprietary","ur","666122",NA
+"307",NA,NA,NA,"Cypress","90630",96,NA,NA,"CA",NA,"450979",FALSE,NA,9000,NA,"Trident University International",NA,-2,"proprietary","ur","41279",NA
+"308",NA,NA,NA,"Cincinnati","45206",NA,NA,NA,"OH",NA,"206279",FALSE,NA,12416,NA,"Union Institute and University",NA,-2,"private","ur","10923",NA
+"309",NA,NA,NA,"Phoenix","85034",NA,NA,NA,"AZ",NA,"372213",FALSE,NA,9690,NA,"University of Phoenix",NA,-2,"proprietary","ur","209885",NA
+"310",NA,NA,NA,"Minneapolis","55401",NA,NA,NA,"MN",NA,"125231",FALSE,NA,12075,NA,"Walden University",NA,-2,"proprietary","ur","25042",NA
+"311",NA,NA,8873,"New Castle","19720",100,NA,NA,"DE",NA,"131113",FALSE,NA,10940,NA,"Wilmington University",NA,-2,"private","ur","7948",NA
